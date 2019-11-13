@@ -6,20 +6,17 @@ h1.titulo {
     text-align: center;
 }
 
-
-
 p.cafe {
     text-align: center;
     
 }
 p.contactos {
    text-align: right;
-    
 }
 p.letra{
     color:maroon;
 }
-p.letracafe{
+.letracafe{
     color:red;
 }
 p.contacto {
@@ -31,4 +28,19 @@ h2.letra {
 }
 .amarillo {
     color: rgb(255, 166, 0);
+}
+caption {
+    font-weight: bold;
+}
+th.años {
+    padding-left: 50px;
+    padding-right: 50px;
+    color: red;
+}
+.fondo{
+    background-color: yellow;
+}
+.espacio{
+    margin: auto;
+    color: red;
 }
