@@ -41,6 +41,15 @@ th.años {
     background-color: yellow;
 }
 .espacio{
-    margin: auto;
+    padding-right: 692px;
     color: red;
 }
+th.masespacio {
+    padding-left: 150px;
+    padding-right: 150px;
+    color: red;
+    background-color: yellow;
+}
+.tablabajo{
+    padding-right: 1340px;
+    color: red;
